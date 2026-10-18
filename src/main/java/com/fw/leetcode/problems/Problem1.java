@@ -10,7 +10,7 @@ import java.util.Map;
 public class Problem1 extends Problem {
 
   public Problem1() {
-    super(1, "Two Sum", Category.HASH_TABLE, Difficulty.EASY, Status.NOT_DONE);
+    super(1, "Two Sum", Category.HASH_TABLE, Difficulty.EASY, Status.DONE);
   }
 
   public void run() {
