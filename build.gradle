@@ -25,5 +25,6 @@ application {
 spotless {
   java {
     googleJavaFormat()
+    toggleOffOn()
   }
 }
