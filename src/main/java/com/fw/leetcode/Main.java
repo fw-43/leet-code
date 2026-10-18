@@ -7,7 +7,10 @@ public class Main {
   // spotless:off
   private final Problem[] problems = new Problem[] {
     null,
-    new Problem1()
+    new Problem1(), null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, null, null, null, null, null,
+    null, null, null, null, null, new Problem36(), null, null, null, null,
   };
   // spotless:on
 
